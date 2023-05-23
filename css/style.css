@@ -1,0 +1,26 @@
+body {
+  background-color: #040F16;
+}
+body header {
+  background-color: #74776B;
+}
+body header h1 {
+  color: #EDF7F6;
+}
+body div h2 {
+  color: #EDF7F6;
+}
+
+.davi {
+  color: #8FE388;
+}
+
+.clara {
+  color: #A292D1;
+}
+
+.accordion-collapse {
+  background-color: #040F16;
+}
+
+/*# sourceMappingURL=style.css.map */

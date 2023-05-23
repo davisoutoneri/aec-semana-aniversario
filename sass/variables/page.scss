@@ -1,0 +1,29 @@
+body{
+  background-color: $background-color;
+
+  header{
+    background-color: $div-color;
+
+    h1{
+      color: $text-color;
+    }
+  }
+  
+  div{
+    h2{
+      color: $text-color;
+    }
+  }
+}
+
+.davi{
+  color: $davi-color;
+}
+
+.clara{
+  color: $clara-color;
+}
+
+.accordion-collapse{
+  background-color: $background-color;
+}
